@@ -6,8 +6,8 @@ During an investigation, the security lead identifies a peculiar anomaly in the 
 After relentless efforts, the team discovers the truth—the image contains hidden data capable of compromising the institution’s security. This finding intensifies their investigation as they work to uncover the perpetrators and mitigate the risk before it escalates. <b>
 # Industry Relevance
 The following tools used in this project serve specific purposes within the industry <b>
-Steganography Tool (for example, SilentEye, StegHide): Is used to embed hidden data within JPG images to demonstrate data-hiding techniques <b>
-FTK (Forensic Toolkit): Enables recovery of deleted files and analysis of disk images for digital forensic investigations <b>
-File System (2GB NTFS Partition): Simulates real-world storage environments for practicing file recovery techniques <b>
-JPG Image Format: Represents a common file format used for embedding and concealing hidden data <b>
-Disk Image (2-Disk System): Provides a realistic scenario for recovering deleted files from storage environments <b>
+1.Steganography Tool (for example, SilentEye, StegHide): Is used to embed hidden data within JPG images to demonstrate data-hiding techniques <b>
+2.FTK (Forensic Toolkit): Enables recovery of deleted files and analysis of disk images for digital forensic investigations <b>
+3.File System (2GB NTFS Partition): Simulates real-world storage environments for practicing file recovery techniques <b>
+4.JPG Image Format: Represents a common file format used for embedding and concealing hidden data <b>
+5.Disk Image (2-Disk System): Provides a realistic scenario for recovering deleted files from storage environments <b>
